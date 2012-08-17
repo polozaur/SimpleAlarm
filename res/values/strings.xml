@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SimpleAlarm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_alarm">Alarm</string>
+    <string name="title_activity_newtask">New Alarm</string>
+	<string name="title_activity_wakeup">Wake Up</string>
+</resources>
